@@ -10,7 +10,7 @@ col1, col2, col3 = st.columns([1, 2, 3 ])
 with col1:
     st.image("https://upload.wikimedia.org/wikipedia/commons/5/5c/Pepper_robot.png", width=200)
     if st.button("INICIO VIDEO"):
-        st.video("https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4")
+        st.video("https://youtu.be/onoBBBNCxsY")
 
 with col2:
     st.subheader("Novedades Tecnológicas")
