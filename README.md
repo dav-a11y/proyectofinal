@@ -1,0 +1,1 @@
+# en este proyecto se presenta en una Dashboard lo visualizado en la asignatura sobre sistemas operativos.
